@@ -10,5 +10,4 @@ curl \
   -H "Accept-Language: $LANGUAGE" \
   -H "User-Agent: $UA" \
   -k \
-  -insecure\ 
   "https://chat.yangqq.repl.co/"
